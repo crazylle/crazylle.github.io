@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://crazylle.github.io/baidu_verify_code-R5Xu4jVfpS.html</loc>
-    
-    <lastmod>2021-06-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://crazylle.github.io/about/index.html</loc>
     
     <lastmod>2021-06-17</lastmod>
@@ -39,6 +32,27 @@
 
   
   <url>
+    <loc>http://crazylle.github.io/tags/idea/</loc>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/tags/http-client/</loc>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/tags/Alibaba-Cloud-Toolkit/</loc>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://crazylle.github.io/tags/RocketMQ/</loc>
     <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
@@ -66,38 +80,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://crazylle.github.io/tags/idea/</loc>
-    <lastmod>2021-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://crazylle.github.io/tags/http-client/</loc>
-    <lastmod>2021-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://crazylle.github.io/tags/Alibaba-Cloud-Toolkit/</loc>
-    <lastmod>2021-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>http://crazylle.github.io/categories/MQ/</loc>
+    <loc>http://crazylle.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://crazylle.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>http://crazylle.github.io/categories/MQ/</loc>
     <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
