@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://crazylle.github.io/2021/06/17/rocketmq-transaction-research/</loc>
+    
+    <lastmod>2021-06-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/about/index.html</loc>
+    
+    <lastmod>2021-06-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://crazylle.github.io/2021/06/11/idea-http-client-question/</loc>
     
     <lastmod>2021-06-16</lastmod>
@@ -11,7 +25,7 @@
 
   <url>
     <loc>http://crazylle.github.io/</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -19,21 +33,49 @@
   
   <url>
     <loc>http://crazylle.github.io/tags/idea/</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://crazylle.github.io/tags/http-client/</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://crazylle.github.io/tags/Alibaba-Cloud-Toolkit/</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/tags/RocketMQ/</loc>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/tags/%E4%BA%8B%E7%89%A9%E6%B6%88%E6%81%AF/</loc>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/tags/QMQ/</loc>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/tags/MQ/</loc>
+    <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42,7 +84,14 @@
   
   <url>
     <loc>http://crazylle.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://crazylle.github.io/categories/MQ/</loc>
+    <lastmod>2021-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
